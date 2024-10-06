@@ -1,11 +1,10 @@
 //Kit Pollinger
-//210 - Lab - 19 | Abstract & Automate Lab 18
+// 210 - lab - 19 | Abstract and Automate lab 18
+
 #include <iostream>
+using namespace std;
+
 #include <string>
-#include <string>
-#include <fstream>
-#include <vector>
-#include <ctime>
 using namespace std;
 
 struct Node
